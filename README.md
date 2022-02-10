@@ -11,10 +11,10 @@ run all project
 or in directory .\Nika-IT-test\src\test\
 run command:
 
->pytest test001_NikaTest_MainPage.py
+>pytest test_001_NikaTest_MainPage.py
 
 or with xml results:
 
->python -m pytest test001_NikaTest_MainPage.py --junit-xml=../results/results.xml
+>python -m pytest test_001_NikaTest_MainPage.py --junit-xml=../results/results.xml
 
 or play in PyCharm
